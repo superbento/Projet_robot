@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\robot mobile\scripts\GenereObjetsScript.cs">
+    <Files>
+      <File FileName="Assets\robot mobile\scripts\SourisScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\gere_bras.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\ClavierScript.cs" Line="21" Column="5" />
+      <File FileName="Assets\robot mobile\scripts\BougeBaseMobile.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\MaterielScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\NavigationScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\SelectionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\ManipulationScipt.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\EnZoneDepot.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\camera_controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\GéraCameras.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\LacheObjet.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\PrendObjet.cs" Line="1" Column="1" />
+      <File FileName="Assets\robot mobile\scripts\prism.cs" Line="35" Column="31" />
+      <File FileName="Assets\robot mobile\scripts\SelectionnableDistScript.cs" Line="13" Column="44" />
+      <File FileName="Assets\robot mobile\scripts\FollowMe.cs" Line="18" Column="21" />
+      <File FileName="Assets\robot mobile\scripts\GenereObjetsScript.cs" Line="21" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

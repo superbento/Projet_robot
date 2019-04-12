@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/sc\xE8nes/sc\xE8ne 4.unity"
+  isLoaded: 1
+  isActive: 1
